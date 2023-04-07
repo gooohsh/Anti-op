@@ -1,0 +1,9 @@
+name: Anti-op
+
+main: Nikita\Nikolaev\Protector\Protector
+
+version: 0.0.1
+
+api: 4.6.2
+
+author: terrar1st
